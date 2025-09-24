@@ -69,4 +69,5 @@ Analisis dilakukan mengikuti alur pembelajaran yang sistematis sesuai referensi:
 ---
 
 ## Author
-Project ini dibuat sebagai bagian dari pembelajaran **Data Science / Time Series Forecasting** untuk portofolio.  
+Rizki Ramadhan
+Project for portfolio: Time Series Forecasting with ARIMA/SARIMA
